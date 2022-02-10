@@ -1,15 +1,25 @@
-# Create a Repository
+## Unit Financial Calculations - Jensen Measure
 
-In this activity, we will create a Github repository and add group members as collaborators.
+---
+### Overview
 
-## Instructions
+This week will cover pythonic solutions to financial calculations
 
-* One group member should create a new Github repository. Don't worry about the project name now, this can be changed later.
+---
+### Financial Calculation Lesson Plans
 
-* From the repo's main page, click the "Settings" tab.
+* [Jensen Measure](LessonPlan.md)
 
-* Once in the repo's settings, select the "Manage access" menu item on the left.
+---
+### [Activities](Activities/)
 
-* From the "Manage access" page, invite your group members to be project collaborators by entering their Github usernames one at a time.
+ * [01-Stu_Finding_Alpha](Activities/)
 
-* Each invited group member should receive an email they must open to accept the invitation.
+---
+### Supplemental Resources
+
+* [yFinance install guide](https://pypi.org/project/yfinance/)
+
+* [getFamaFrenchFactors install guide]](https://pypi.org/project/getFamaFrenchFactors/)
+
+* [statsmodels docs](https://www.statsmodels.org/stable/index.html)
